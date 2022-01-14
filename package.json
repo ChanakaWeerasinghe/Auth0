@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ChanakaWeerasinghe/Auth0#readme",
   "dependencies": {
     "mastercard-client-encryption": "^1.0.6",
-    "node-forge": "^0.9.1",
+    "node-forge": "^1.0.0",
     "src": "^1.1.2",
     "superagent": "^5.1.2"
   }
